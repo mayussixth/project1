@@ -1,4 +1,4 @@
 #!/bin/sh
 echo "hello world"
 date
-echo "say something"
+echo "say and sing something"
